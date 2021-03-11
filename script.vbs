@@ -1,5 +1,0 @@
-X=MsgBox("HAHAHAH",0+16,"VIRUS") 
-X=MsgBox("HAHAHAH",0+16,"VIRUS") 
-X=MsgBox("HAHAHAH",0+16,"VIRUS") 
-X=MsgBox("HAHAHAH",0+16,"VIRUS") 
-X=MsgBox("HAHAHAH",0+16,"VIRUS") 
